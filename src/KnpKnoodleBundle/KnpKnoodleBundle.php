@@ -1,6 +1,6 @@
 <?php
 
-namespace Knp\KnoodleBundle;
+namespace KnpKnoodleBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

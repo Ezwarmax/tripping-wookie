@@ -1,6 +1,6 @@
 <?php
 
-namespace Knp\KnoodleBundle\Tests\Controller;
+namespace KnpKnoodleBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

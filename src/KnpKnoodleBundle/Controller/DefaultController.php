@@ -1,6 +1,6 @@
 <?php
 
-namespace Knp\KnoodleBundle\Controller;
+namespace KnpKnoodleBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 

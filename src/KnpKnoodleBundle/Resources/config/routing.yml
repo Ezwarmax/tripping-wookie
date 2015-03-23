@@ -1,0 +1,3 @@
+knp_knoodle_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: KnpKnoodleBundle:Default:index }

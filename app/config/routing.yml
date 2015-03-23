@@ -1,5 +1,5 @@
 knp_knoodle:
-    resource: "@KnpKnoodleBundle/Resources/config/routing.xml"
+    resource: "@KnpKnoodleBundle/Resources/config/routing.yml"
     prefix:   /
 
 app:
